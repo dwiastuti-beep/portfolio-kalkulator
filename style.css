@@ -161,6 +161,11 @@ button.calculate {
     color: #000;
     margin-bottom: 15px;
   }
+
+  .container p {
+    
+  }
+
   .result #result {
     font-size: 36px;
     font-weight: 900;
